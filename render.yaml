@@ -1,0 +1,8 @@
+services:
+   - type: web
+     name: my-service-name
+     runtime: docker
+     dockerfilePath: ./Dockerfile
+     plan: free # O el plan que elijas
+     branch: main
+     autoDeploy: true
