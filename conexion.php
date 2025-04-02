@@ -1,7 +1,7 @@
 <?php
 
 function conexion() {
-    $host = "host=ddpg-cvmpjc7diees73bpro8g-a.oregon-postgres.render.com";
+    $host = "host=ddpg-cvmpjc7diees73bpro8g-a";
     $port = "port=5432";
     $dbname = "dbname=test_m6ty";
     $user = "user=rojas";
