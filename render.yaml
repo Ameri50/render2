@@ -1,6 +1,6 @@
 services:
    - type: web
-     name: my-service-name
+     name: my-php-app
      runtime: docker
      dockerfilePath: ./Dockerfile
      plan: free # O el plan que elijas
